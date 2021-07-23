@@ -1,0 +1,36 @@
+// primary colors
+$brightOrange: hsl(31, 77%, 52%);
+$darkCyan: hsl(184, 100%, 22%);
+$vDarkCyan: hsl(179, 100%, 13%);
+
+// neutral colors
+$transWhite: hsla(0, 0%, 100%, 0.75);
+$vLightGray: hsl(0, 0%, 95%);
+
+// typography
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+$bShouldersDisplay: 'Big Shoulders Display', cursive;
+
+$lexendDeca: 'Lexend Deca', sans-serif;
+
+$fSize: 15px;
+
+
+
+.attribution {
+  background: #1c1c1c;
+  color: #e6e7e8;
+  font-size: 11px; 
+  text-align: center;
+  padding: .3rem;
+  font-family: $lexendDeca;
+
+  p:first-of-type{padding-bottom: .3rem;}
+  a {
+    color: #E4D00A;
+    text-decoration: none;
+  }
+  a:hover{color: #C4B108;}
+  a:visited{color: #0A1EE4;}
+}

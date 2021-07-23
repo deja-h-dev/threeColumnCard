@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+.attribution {
+  background: #1c1c1c;
+  color: #e6e7e8;
+  font-size: 11px;
+  text-align: center;
+  padding: 0.3rem;
+  font-family: "Lexend Deca", sans-serif;
+}
+.attribution p:first-of-type {
+  padding-bottom: 0.3rem;
+}
+.attribution a {
+  color: #E4D00A;
+  text-decoration: none;
+}
+.attribution a:hover {
+  color: #C4B108;
+}
+.attribution a:visited {
+  color: #0A1EE4;
+}
+
+/*# sourceMappingURL=compiled.css.map */
